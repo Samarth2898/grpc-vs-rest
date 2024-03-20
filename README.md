@@ -1,4 +1,4 @@
-# Lab6 - Comparing REST and gRPC remote procedure calls.
+# Comparing REST and gRPC remote procedure calls.
 This lab designed to help you understand the programmatic and performance difference between REST and gRPC APi's. You will develop a REST and a gRPC api then compare the performance for latency / bandwidth.
 
 ## API endpoints / services
